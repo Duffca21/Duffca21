@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @Duffca21
-- 👀 I’m interested in computers
-- 🌱 I’m currently learning programing languages
-- 💞️ I’m looking to collaborate on Tiramisu projects
-- 📫 How to reach me-on discord 
-- 😄 Pronouns : subject name
-- ⚡ Fun fact: im people 
+About Tiramisu welcomer
 
-<!---
-Duffca21/Duffca21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Tiramisu welcomer is a simple discord welcomer bot.
+You need to enter the code to page such as Replit and enter your real bot token and welcome chael ID.
+Tiramisu is fully free and you can edit it for your needs!!!
+Its your problem if you destroy your server or chanel on it by editing my bot!!!
