@@ -1,0 +1,27 @@
+import discord
+from discord.ext import commands
+
+intents = discord.Intents.default()
+intents.members = True 
+
+bot = commands.Bot(command_prefix="!", intents=intents)
+
+WELCOME_CHANNEL_ID = 1122334455667788  # Replace with your real channel ID
+
+@bot.event
+async def on_ready():
+    print(f"Bot is ready. Signed in as {bot.user}")
+
+@bot.event
+async def on_member_join(member):
+    try:
+        channel = bot.get_channel(WELCOME_CHANNEL_ID)
+        if channel:
+            server_name = member.guild.name
+            await channel.send(f"Welcome to {server_name}, {member.mention} !!!")
+        else:
+            print("Channel not found.")
+    except Exception as e:
+        print(f"Error: {e}")
+
+bot.run("bot_token_here")  # Replace with your actual bot token
