@@ -1,7 +1,6 @@
-About Tiramisu welcomer
-
-Tiramisu welcomer is a simple discord welcomer bot.
-You need to enter the code to page such as Replit and enter your real bot token and welcome chael ID.
-Tiramisu is fully free and you can edit it for your needs!!!
-Its your problem if you destroy your server or chanel on it by editing my bot!!!
-Sorry for my bad Englisch.
+Hi, im Duffča21.
+I like tech and things conected with it.
+Im making on project called Tiramisu (T-Misu).
+My fav things are Android app building, Linux distro building, and Blender projects.
+You can join my discord server where i share all of my projects and you can too.
+Im waiting for 🫵.
